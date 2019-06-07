@@ -2,7 +2,7 @@
   "name": "joystick-component-lib",
   "version": "0.1.1",
   "description": "a custom react native joystick component",
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel lib -d build",
